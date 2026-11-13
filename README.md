@@ -1,7 +1,7 @@
 <!--
   GitHub Profile README for Abdullah Hussaini
   Before publishing:
-  1. Replace YOUR_GITHUB_USERNAME everywhere below.
+ ]
   2. Replace the LinkedIn URL with your real profile, or remove that badge.
   3. Add links to public repositories in the Featured Projects section.
 -->
@@ -20,10 +20,10 @@
     <a href="mailto:h.abdullah1394@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <a href="https://www.linkedin.com/in/abdullahhussaini97">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <a href="https://github.com/abdullah-2019">
       <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
@@ -121,18 +121,18 @@ The following projects are described in my CV. Public repository or live-demo li
 
 ## 📊 GitHub Overview
 
-<!-- Replace YOUR_GITHUB_USERNAME in each URL with your exact GitHub username. -->
+<!-- Replace abdullah-2019 in each URL with your exact GitHub username. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullah-2019&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-2019&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=abdullah-2019&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-2019&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ## 🎓 Education
